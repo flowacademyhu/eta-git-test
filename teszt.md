@@ -38,3 +38,17 @@ A git log parancsal.
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 git status
 
+4. feladat:
+2019.11.08-án lett megváltoztatva Mark Zuckerberg által a lenti okok miatt.
+
+commit aee7423746366c926a15c0f5bd62d8c97586390f
+Author: Mark Zuckerberg <zuck@facebook.com>
+Date:   Fri Nov 8 13:08:59 2019 +0100
+
+    Change the status endpoint to /health
+    
+    To follow industry standards, the endpoint responsible for the status of
+    the service should live under the /health endpoint and return a bool
+    value denoted by the `health` key.
+
+
