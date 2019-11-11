@@ -27,3 +27,14 @@ A legfőbb parancs erre a "git diff". A diff megmutatja a stagen és working dir
 Erre a legfőbb parancs a git log. Számtalan paraméter állítható be a parancs számára, hogy testreszabható legyen a kimenet és könnyen kereshetővé váljon az eredmény. Lehet paraméterezni és limitálni is a keresett eredményt, vagy kifejezetten szűrni. 
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 A git status parancs megmutatja a working directory és local repository állapotát.
+
+2. feladat:
+A node-express-app.js fájl módosítása a következő author és időpontban történt: 
+commit aee7423746366c926a15c0f5bd62d8c97586390f
+Author: Mark Zuckerberg <zuck@facebook.com>
+Date:   Fri Nov 8 13:08:59 2019 +0100
+Indoklás:
+    To follow industry standards, the endpoint responsible for the status of
+    the service should live under the /health endpoint and return a bool
+    value denoted by the `health` key.
+
