@@ -37,3 +37,8 @@ A git status szolgál az állapot lekérdezésére. Megmutatja, hogy vannak-e un
 1. Hogy lehet megnézni egy repo történetét, milyen eszközeink vannak ebben való keresésre?
 A git log parancs megmutatja a commit-ek listáját, lehetőség van adott commit-et keresni, a HEAD állítására
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
+
+
+Author: András Maróy <andras@maroy.hu>
+Date:   Fri Nov 8 14:10:54 2019 +0100
+
