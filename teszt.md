@@ -38,4 +38,14 @@ A git log paranccsal. A git log --grep="amit keresünk" paranccsal tudunk keresn
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 git status
 
+Keress meg mikor és miért volt változtatva az alkalmazás (node-express-app.js) kimeneti formátuma, a választ a teszt.md végén add meg:
+Date:   Fri Nov 8 13:08:59 2019 +0100
+
+    Change the status endpoint to /health
+    
+    To follow industry standards, the endpoint responsible for the status of
+    the service should live under the /health endpoint and return a bool
+    value denoted by the `health` key.
+
+
 
