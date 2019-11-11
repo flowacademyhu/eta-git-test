@@ -1,0 +1,20 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Git test for Eta team",
+  "main": "node-express-app.js",
+  "scripts": {
+    "start": "node node-express-app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrasmaroy/git-test.git"
+  },
+  "author": "andrasmaroy",
+  "license": "MIT",
+  "homepage": "https://github.com/andrasmaroy/git-test#readme",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1"
+  }
+}
