@@ -10,9 +10,3 @@ Git test for Eta team
 1. Húzd át az `app` branch-be a `master`-en született változtatásaid
 1. Az `upstream` branch-en található egy frisebb verziója az alkalmazásnak, az itt található `1.1.0` verziót is húzd át az `app` branch-edbe
 1. Küldj az `app` branch-ből egy pull request-et az eredeti repo `master` branch-ébe
-
-## Starting the app
-
-Install dependencies by running `npm install` then start with `npm start`.
-
-The single endpoint is accessible on http://localhost:8080/
