@@ -32,6 +32,15 @@ var router = express.Router();        // get an instance of the express Router
 
 router.get('/health', function(req, res) {
   res.json({ health: true });
+var up = true;
+var db = true;
+
+router.get('/health', function(req, res) {
+  res.json({ up: up, db: db, health: up && db });
+});
+
+router.get('/hello', function(req, res) {
+  res.json({ answer: 42 });
 });
 
 app.use('/', router);
