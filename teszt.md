@@ -14,3 +14,5 @@ Név:
 1. Hogyan lehet összehasonlítani file-ok állapotait, mire tudjuk még ezt a kimenetet használni? git diff-vel, összehasonlíthatunk még vele commitokat, brancheket stb is.
 1. Hogy lehet megnézni egy repo történetét, milyen eszközeink vannak ebben való keresésre? git log, greppel lehet benne keresni.
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo? git status
+
+A node-express-app.js fájlt ekkor válroztatták meg: Fri Nov 8 14:10:54 és ezért: "Add basic node webapp and instructions to run it"
