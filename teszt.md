@@ -17,7 +17,7 @@ A fetch-el tudjuk lekérni, hogy milyen változtatások vannak egy távoli repó
 unstaged állapot, amiből a git add paranccsal felpakolhatjuk a stage-re őket. Ezentúl staged lesz az állapotuk, majd a stage-ről commitolhatjuk a fájlokat a git commit-al, innentől kezdve pedig comitted lesz az állapotuk.
 
 1. Mi a különbség a `git checkout origin/feature` és a `git checkout feature` parancsok között?
-
+A az origin/feature-el adjuk meg a távoli repo branchére váltást.
 
 1. Mi történik, ha valaki más is módosította a file-t amin dolgozunk és mit tudunk tenni ilyenkor?
 Conflict keletkezik, amelyet fel kell oldanunk.
