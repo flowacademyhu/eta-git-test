@@ -15,6 +15,7 @@ Név:
 1. Hogy lehet megnézni egy repo történetét, milyen eszközeink vannak ebben való keresésre?
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 
+
 1: Aa add paarncs után kiadható parancs, a staging area-ból a local repository-ba kerülnek a módosított  file-ok. Egy üzenetet tartalmaz, ami a módosításokról szól.
 
 2:Az, hogy a fetch a working directory-t érintetlenül hagyja, a pull viszont az ott lévő fájlokat is érinti.
@@ -34,4 +35,5 @@ Név:
 9: git log. Részletesebben: git log --graph --parents --name-status
 
 10: git status
+
 
