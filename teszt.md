@@ -50,3 +50,7 @@ Név:
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 	A git status segítségével lehet megtekinteni, hogy az adott repó milyen állapotban
 	van, illetve, hogy milyen lépések állnak rendelkezésünkre.
+
+
+A node-express-app.js utoljára a aee7423746366c926a15c0f5bd62d8c97586390f megjelölésű commit
+során volt megváltoztatva nov. 8-án.
