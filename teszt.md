@@ -29,7 +29,7 @@ Erre a legfőbb parancs a git log. Számtalan paraméter állítható be a paran
 A git status parancs megmutatja a working directory és local repository állapotát.
 
 2. feladat:
-A node-express-app.js fájl módosítása a következő author és időpontban történt: 
+A node-express-app.js fájl módosítása a következő author által és időpontban történt: 
 commit aee7423746366c926a15c0f5bd62d8c97586390f
 Author: Mark Zuckerberg <zuck@facebook.com>
 Date:   Fri Nov 8 13:08:59 2019 +0100
