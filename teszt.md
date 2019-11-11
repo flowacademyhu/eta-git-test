@@ -43,3 +43,4 @@ git log paranccsal. Ha terminálból keresünk, akkor lehet grep-et alkalmazni a
 git status
 
 A node-express-app.js kimeneti formátuma 2019. november 08-án 13:08:59-kor változott meg. A commit message-ben "industry standards" követésére hivatkozik az author. Az endpoint felelős a szolgáltatás állapotáért, melynek a /health endpoint alatt kell lennie és egy bool értékkel tér vissza.
+Ezzel a paranccsal találtam meg: git log --follow -p -- node-express-app.js
