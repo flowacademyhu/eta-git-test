@@ -35,5 +35,5 @@ Ezek segítségével lehet biztosítani, hogy az egyes fejlesztések ne "ronthas
 A git status szolgál az állapot lekérdezésére. Megmutatja, hogy vannak-e untracked és stanging-elésre (commitolásra) váró fájljaink
 
 1. Hogy lehet megnézni egy repo történetét, milyen eszközeink vannak ebben való keresésre?
-A git log parancs megmutatja a commit-ek listáját, 
+A git log parancs megmutatja a commit-ek listáját, lehetőség van adott commit-et keresni, a HEAD állítására
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
