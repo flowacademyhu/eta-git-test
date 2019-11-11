@@ -41,3 +41,5 @@ git log paranccsal. Ha terminálból keresünk, akkor lehet grep-et alkalmazni a
 
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 git status
+
+A node-express-app.js kimeneti formátuma 2019. november 08-án 13:08:59-kor változott meg. A commit message-ben "industry standards" követésére hivatkozik az author. Az endpoint felelős a szolgáltatás állapotáért, melynek a /health endpoint alatt kell lennie és egy bool értékkel tér vissza.
